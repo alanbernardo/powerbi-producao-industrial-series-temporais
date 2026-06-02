@@ -44,7 +44,6 @@ Análise temporal da média de unidades produzidas por:
 - Trimestre
 - Mês
 - Faixa etária dos funcionários
-
 Permitindo identificar tendências e padrões de comportamento da produção.
 -------------------------
 
