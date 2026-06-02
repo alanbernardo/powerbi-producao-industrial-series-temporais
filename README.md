@@ -40,10 +40,10 @@ Evolução da Produção ao Longo do Tempo
 
 Análise temporal da média de unidades produzidas por:
 
--Ano
--Trimestre
--Mês
--Faixa etária dos funcionários
+- Ano
+- Trimestre
+- Mês
+- Faixa etária dos funcionários
 
 Permitindo identificar tendências e padrões de comportamento da produção.
 -------------------------
